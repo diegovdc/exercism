@@ -1,0 +1,5 @@
+clojure/**/.lein-failures
+clojure/**/.lein-repl-history
+haskell/**/.stack-work/
+ecmascript/*/node_modules/
+php/
